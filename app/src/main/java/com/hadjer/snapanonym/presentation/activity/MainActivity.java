@@ -18,10 +18,8 @@ ImageView imageView;
     }
 
     public void onExploreSnaps(View view) {
-
         Intent intent = new Intent(this, SnapListActivity.class);
         startActivity(intent);
-
     }
 
 

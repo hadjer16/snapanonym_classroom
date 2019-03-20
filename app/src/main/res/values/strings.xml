@@ -7,4 +7,15 @@
     <string name="publish_a_snap">publish a snap</string>
     <string name="publish_button_label">PUBLISH</string>
     <string name="title_activity_snap_list">SnapListActivity</string>
+    <string name="snap_action_comment">snap_action_comment</string>
+    <string name="snap_action_love">snap_action_love</string>
+    <string name="description">description</string>
+    <string name="info_test">info_test</string>
+    <string name="snap_action_like">snap_action_like</string>
+    <string name="snap_action_dislike">snap_action_dislike</string>
+    <string name="m_away">sfhgth</string>
+    <string name="action_dislike">30K</string>
+    <string name="action">40K</string>
+    <string name="action_tata">30K</string>
+    <string name="action_comment">20K</string>
 </resources>
